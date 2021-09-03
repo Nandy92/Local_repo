@@ -1,0 +1,29 @@
+body{
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRno_a4f8jrHbS0HVkKnTucejOt3-03-I5RtQ&usqp=CAU");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container .jumbotron{
+  margin-top: 20px;
+  background: #66ffff;
+  color:black;
+  font-family:sans-serif;
+}
+
+table,tr,td,thead,th{
+  border:3px solid blue;
+  font-size: 30px;
+  color: white;
+  background: #009933;
+  margin:auto;
+}
+
+
+h1{
+  text-align: center;
+}
+
+p{
+  color:#330033;
+}
